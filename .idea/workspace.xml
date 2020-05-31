@@ -1,12 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e2c50d-53cd-4b55-8799-39c9dc18c66b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Copyright.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PicUpload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProfileCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReadMore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/consts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/trimText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/CreatePost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/EmailPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/LoginPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/MyPosts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/ProfilePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/RegistrationPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/Tracker.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/TrackerPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/components/Cards/Cards.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/components/Cards/Cards.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/components/Chart/Chart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/components/Chart/Chart.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/components/CountryPicker/CountryPicker.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/components/CountryPicker/CountryPicker.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/tracker/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/authAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/confAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/profileAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/regAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/authReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/confReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/profileReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/regReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/rootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1adRRhU1wY5CVyHiXuOwzkJPumO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Git/fastserve-client" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\store\reducers" />
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\helpers" />
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\store\actions" />
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\routes" />
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\routes\tracker\components" />
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\routes\tracker" />
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\assets\styles" />
+      <recent name="C:\Users\user\WebstormProjects\amv-box\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e2c50d-53cd-4b55-8799-39c9dc18c66b" name="Default Changelist" comment="" />
+      <created>1587063477193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587063477193</updated>
+      <workItem from="1587063479894" duration="3389000" />
+      <workItem from="1587191400018" duration="5643000" />
+      <workItem from="1587303001995" duration="13169000" />
+      <workItem from="1587563330169" duration="36322000" />
+      <workItem from="1587734328582" duration="4138000" />
+      <workItem from="1587748972125" duration="8395000" />
+      <workItem from="1587798465456" duration="29689000" />
+      <workItem from="1588085859544" duration="761000" />
+      <workItem from="1588170287107" duration="730000" />
+      <workItem from="1588183942228" duration="14201000" />
+      <workItem from="1588248994042" duration="700000" />
+      <workItem from="1588253284355" duration="1072000" />
+      <workItem from="1588254651674" duration="143000" />
+      <workItem from="1588254837927" duration="961000" />
+      <workItem from="1588272127437" duration="21000" />
+      <workItem from="1588798910340" duration="77000" />
+      <workItem from="1588958827295" duration="480000" />
+      <workItem from="1588963518800" duration="1801000" />
+      <workItem from="1589009121505" duration="8569000" />
+      <workItem from="1589120963665" duration="209000" />
+      <workItem from="1590002881105" duration="8962000" />
+      <workItem from="1590165608066" duration="26000" />
+      <workItem from="1590238043282" duration="87000" />
+      <workItem from="1590835780667" duration="45021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="195" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588242891316">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="454" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1588242891316" />
+    <state x="322" y="184" key="EditFileWatcherDialog" timestamp="1587652122807">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="322" y="184" key="EditFileWatcherDialog/0.0.1366.768@0.0.1366.768" timestamp="1587652122807" />
+    <state x="463" y="143" key="FileChooserDialogImpl" timestamp="1589121189894">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="143" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589121189894" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1588245323562">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1588245323562" />
+    <state x="390" y="140" width="586" height="488" key="find.popup" timestamp="1590238089921">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="390" y="140" width="586" height="488" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1590238089921" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1588245326288">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1588245326288" />
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590916918624">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590916918624" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/common/Navbar.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/routes/LoginPage.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/store/actions/authAction.js</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/routes/LoginPage.js</url>
+          <line>60</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/routes/LoginPage.js</url>
+          <line>110</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
